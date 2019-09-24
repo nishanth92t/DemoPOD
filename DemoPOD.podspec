@@ -29,8 +29,8 @@ first pod project inn ongoframework
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
-
-  s.source_files = 'DemoPOD/Classes/**/*'
+  s.source_files = 'DemoPOD/Example for DemoPOD/*.{.h,.m,swift}'
+  #s.source_files = 'DemoPOD/Classes/**/*'
   
   # s.resource_bundles = {
   #   'DemoPOD' => ['DemoPOD/Assets/*.png']
