@@ -1,0 +1,27 @@
+PODS:
+  - DemoPOD (0.1.0)
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - DemoPOD (from `../`)
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  DemoPOD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DemoPOD: beece2d0ae393fe669d17880603a0845c350c6d6
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 7cd2b31f295c6bf9c09221e017c09de25443769b
+
+COCOAPODS: 1.6.1
